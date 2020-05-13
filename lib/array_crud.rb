@@ -9,8 +9,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-   puppies = ["bulldog", "terrier", "poodle", "pit bull"]
-   puppies.push ("arrays!")
+
+   add_element_to_start_of_array.push ("arrays!")
 
 
 end
