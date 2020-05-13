@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, element)
    puppies = ["bulldog", "terrier", "poodle", "pit bull"]
-   puppies.push ("lab")
+   puppies.push ("arrays!")
 
 
 end
